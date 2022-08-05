@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JorgeSevilla/todomachine/static/css/main.7f3ad2a8.css",
+    "main.js": "/JorgeSevilla/todomachine/static/js/main.13260af8.js",
+    "index.html": "/JorgeSevilla/todomachine/index.html",
+    "main.7f3ad2a8.css.map": "/JorgeSevilla/todomachine/static/css/main.7f3ad2a8.css.map",
+    "main.13260af8.js.map": "/JorgeSevilla/todomachine/static/js/main.13260af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3ad2a8.css",
+    "static/js/main.13260af8.js"
+  ]
+}
