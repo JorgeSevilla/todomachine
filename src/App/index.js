@@ -1,6 +1,6 @@
 import React from "react";
 import "../App/App.css";
-import { AppUI } from "./AppUI";
+import { AppUI } from "../App/AppUI";
 import { TodoProvider } from '../TodoContext/index';
 
 /*const defaultTodos=[

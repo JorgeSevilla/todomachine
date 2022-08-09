@@ -29,7 +29,7 @@ function AppUI() {
       <TodoSearch />
 
       <TodoList>
-        {error && <TodosError error={error} />}
+        {error && <TodosError />}
         {loading && <TodosLoading />}
         {(!loading && !searchedTodos.length) && <EmptyTodos />}
 
